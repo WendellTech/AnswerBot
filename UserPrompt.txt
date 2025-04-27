@@ -1,0 +1,3 @@
+<user_response>
+{userResponsePlaceholder}
+</user_response>

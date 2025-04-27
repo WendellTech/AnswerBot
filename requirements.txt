@@ -1,0 +1,5 @@
+customtkinter
+Pillow
+google-generativeai
+openai
+requests
