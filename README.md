@@ -85,10 +85,8 @@ Once your app is up and running, you will need to configure the API provider and
 8. **Adjust the rate limit**:
    - If you're using the model mentioned above, I recommend setting the rate limit to **4 or 5 seconds**. This will help prevent hitting the 15-20 requests per minute limit.
 9. **Click Save** to save your settings.
-10. **Test the AI** by sending a message and waiting for a response. You can ask a short or long-answer question, coding-related queries, or even math problems. You can also instruct the AI to shorten or lengthen its answers.
-11. **Pin the window** to keep it always on top by clicking the little **pin icon**. To start a new chat, simply press the **New Chat** button.
-12. Click Save
-13. Send a message to the AI and wait for a response, it can be a short answer question, long answer question, coding question, a question that requires writing code, a multiple choice question, or a math question/math problem. You can also tell the AI to shorten or lengthen the previous long/short answer.
-14. To keep the window always above everything else, click the little pin icon. To start a new chat press the New Chat button.
+10. **Pin the window** to keep it always on top by clicking the little **pin icon**. To start a new chat, simply press the **New Chat** button.
+11. Send a message to the AI and wait for a response, it can be a short answer question, long answer question, coding question, a question that requires writing code, a multiple choice question, or a math question/math problem. You can also tell the AI to shorten or lengthen the previous long/short answer.
+12. To keep the window always above everything else, click the little pin icon. To start a new chat press the New Chat button.
 
 Enjoy! :D
