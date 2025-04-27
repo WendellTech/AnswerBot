@@ -87,5 +87,6 @@ Once your app is up and running, you will need to configure the API provider and
 9. **Click Save** to save your settings.
 10. **Pin the window** to keep it always on top by clicking the little **pin icon**. To start a new chat, simply press the **New Chat** button.
 11. Send a message to the AI and wait for a response, it can be a short answer question, long answer question, coding question, a question that requires writing code, a multiple choice question, or a math question/math problem. You can also tell the AI to shorten or lengthen the previous long/short answer.
+> Additional Tools: You can use something like PowerToys' Text Extractor to copy a problem/question from your screen that you cannot manually select and copy
 
 Enjoy! :D
